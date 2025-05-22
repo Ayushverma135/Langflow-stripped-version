@@ -176,15 +176,6 @@ make init
 - Only the intended bundles (like LangChain and CrewAI) are visible
 - The application works without errors
 
-### Troubleshooting Tips:
-
-If you encounter any issues:
-
-1. Check the console for error messages
-2. Make sure you didn't accidentally remove any core dependencies
-3. Clear your browser cache if the UI still shows removed bundles
-4. Check the application logs for any errors
-
 ### Important Notes:
 
 - Make a backup of your project before making these changes
